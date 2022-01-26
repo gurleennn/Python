@@ -1,0 +1,5 @@
+a = 2
+b = 3
+if a < b:
+    print ('a is less than b')   // after the if statement the print has to be 4 spaces (general Python rule)
+print ('not sure if a is less than b')
