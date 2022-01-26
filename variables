@@ -1,0 +1,5 @@
+a = 5
+b = 6
+c = ('Gurleen applied coding')
+print (a)
+print (b)
