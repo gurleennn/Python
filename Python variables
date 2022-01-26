@@ -1,5 +1,0 @@
-a = 7
-b = 5
-c = ('Gurleen applied coding')
-print (a)
-print (b)
